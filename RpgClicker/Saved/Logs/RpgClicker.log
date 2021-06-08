@@ -2254,3 +2254,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.08-14.09.42:192][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.06.08-14.09.42:198][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
 [2021.06.08-14.09.42:279][412]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.06.08-14.20.22:724][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jquin\Downloads\background.png)
+[2021.06.08-14.20.22:815][529]LogTexture: Display: Building textures: background (AutoDXT, 1920X1080)
+[2021.06.08-14.20.33:651][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.06.08-14.20.36:363][833]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.08-14.20.36:550][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.06.08-14.20.41:726][993]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.08-14.20.41:765][993]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.08-14.20.48:424][220]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2021.06.08-14.20.48:426][220]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.08-14.21.20:915][688]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jquin\Downloads\background.png)
+[2021.06.08-14.21.21:075][688]LogTexture: Display: Building textures: background (AutoDXT, 1920X1080)
+[2021.06.08-14.21.25:901][813]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Art/background.background
+[2021.06.08-14.21.25:962][813]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2021.06.08-14.21.31:531][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/background" FILE="../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/Art/background.uasset" SILENT=true
+[2021.06.08-14.21.31:741][912]LogSavePackage: Moving '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Saved/backgroundFD0461FD41B51F671C64308EF347ECC6.tmp' to '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/Art/background.uasset'
+[2021.06.08-14.21.31:777][912]AssetCheck: New page: Asset Save: background
+[2021.06.08-14.21.31:777][912]LogContentValidation: Display: Validating Texture2D /Game/Art/background.background
+[2021.06.08-14.21.36:666][ 28]LogSlate: Window 'background' being destroyed
+[2021.06.08-14.21.46:781][312]LogContentBrowser: Attempting asset rename: background -> T_Background
+[2021.06.08-14.21.46:944][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/T_Background" FILE="../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/Art/T_Background.uasset" SILENT=true
+[2021.06.08-14.21.47:018][312]LogSavePackage: Moving '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Saved/T_BackgroundC00C915D454AEE8886A9A281411AE298.tmp' to '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/Art/T_Background.uasset'
+[2021.06.08-14.21.47:488][312]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2021.06.08-14.21.47:601][312]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.06.08-14.21.47:629][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.08-14.21.47:675][312]AssetCheck: New page: Asset Save: T_Background
+[2021.06.08-14.21.47:676][312]LogContentValidation: Display: Validating Texture2D /Game/Art/T_Background.T_Background
+[2021.06.08-14.22.00:833][703]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2021.06.08-14.22.25:376][250]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.06.08-14.22.25:449][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.06.08-14.22.26:165][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2021.06.08-14.22.26:323][261]LogSavePackage: Moving '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Saved/WBP_MainMenuE047EA794A8D521C778827ABDA74F0E2.tmp' to '../../../../../../Users/jquin/Desktop/Image Campus/Unreal/RpgClicker/RpgClicker/Content/UI/WBP_MainMenu.uasset'
+[2021.06.08-14.22.26:368][261]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.06.08-14.22.26:368][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2021.06.08-14.22.38:376][571]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2021.06.08-14.22.38:440][571]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2021.06.08-14.22.38:453][571]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-14.22.38:454][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-14.22.38:489][571]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-14.22.38:490][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-14.22.40:347][621]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-14.22.40:369][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-14.22.40:369][621]PIE: New page: PIE session: M_MainMenu (Jun 8, 2021, 8:22:40 AM)
+[2021.06.08-14.22.40:369][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_MainMenu
+[2021.06.08-14.22.40:373][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003537s)
+[2021.06.08-14.22.40:375][621]LogAIModule: Creating AISystem for world M_MainMenu
+[2021.06.08-14.22.40:376][621]LogPlayLevel: PIE: World Init took: (0.002735s)
+[2021.06.08-14.22.40:376][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_MainMenu.M_MainMenu to /Game/Maps/UEDPIE_0_M_MainMenu.M_MainMenu (0.006926s)
+[2021.06.08-14.22.40:431][621]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.06.08-14.22.40:434][621]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-14.22.40:434][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-14.22.40:434][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-14.22.40:435][621]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-14.22.40:436][621]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-14.22.40:441][621]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-14.22.40:441][621]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-14.22.40:487][621]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.06.08-14.22.40:488][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-14.22.40:488][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-14.22.40:488][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-14.22.40:490][621]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-14.22.40:490][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-14.22.40:490][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-14.22.40:532][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-14.22.40:532][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-14.22.40:532][621]LogInit: FAudioDevice initialized.
+[2021.06.08-14.22.40:532][621]LogAudio: Display: Audio Device (ID: 15) registered with world 'M_MainMenu'.
+[2021.06.08-14.22.40:547][621]LogLoad: Game class is 'GameModeBase'
+[2021.06.08-14.22.40:548][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_MainMenu.M_MainMenu up for play (max tick rate 60) at 2021.06.08-11.22.40
+[2021.06.08-14.22.40:549][621]LogWorld: Bringing up level for play took: 0.000831
+[2021.06.08-14.22.40:549][621]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.06.08-14.22.40:556][621]PIE: Server logged in
+[2021.06.08-14.22.40:558][621]PIE: Play in editor total start time 0.198 seconds.
+[2021.06.08-14.22.42:605][702]LogNet: Browse: /Game/Maps/M_Gameplay
+[2021.06.08-14.22.42:606][702]LogLoad: LoadMap: /Game/Maps/M_Gameplay
+[2021.06.08-14.22.42:606][702]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_MainMenu
+[2021.06.08-14.22.42:607][702]LogWorld: UWorld::CleanupWorld for M_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-14.22.42:607][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-14.22.42:660][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-14.22.42:669][702]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2021.06.08-14.22.42:680][702]LogAudio: Display: Audio Device (ID: 15) registered with world 'M_Gameplay'.
+[2021.06.08-14.22.42:681][702]LogAIModule: Creating AISystem for world M_Gameplay
+[2021.06.08-14.22.42:682][702]LogLoad: Game class is 'GameModeBase'
+[2021.06.08-14.22.42:685][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Gameplay.M_Gameplay up for play (max tick rate 60) at 2021.06.08-11.22.42
+[2021.06.08-14.22.42:685][702]LogWorld: Bringing up level for play took: 0.001030
+[2021.06.08-14.22.42:686][702]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.08-14.22.42:688][702]LogBlueprintUserMessages: [GameplayLevel_C_0] Gameplay
+[2021.06.08-14.22.42:688][702]LogLoad: Took 0.082252 seconds to LoadMap(/Game/Maps/M_Gameplay)
