@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RpgClicker.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6B3ACBD8-D39A-4170-BC45-D4C725189198}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RpgClicker.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RpgClickerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C3A076CE-E5A8-42ED-9014-85A3DF3F28A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RpgClicker">
+      <UniqueIdentifier>{7AD00E99-3F5E-4E3B-A413-9E31B0AD8F73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RpgClicker\RpgClicker.Build.cs">
+      <Filter>Source\RpgClicker</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RpgClicker\RpgClicker.cpp">
+      <Filter>Source\RpgClicker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RpgClicker\RpgClicker.h">
+      <Filter>Source\RpgClicker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RpgClicker\RpgClickerGameModeBase.cpp">
+      <Filter>Source\RpgClicker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RpgClicker\RpgClickerGameModeBase.h">
+      <Filter>Source\RpgClicker</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

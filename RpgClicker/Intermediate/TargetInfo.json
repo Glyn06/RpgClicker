@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RpgClicker",
+			"Path": "C:\\Users\\jquin\\Documents\\Unreal Projects\\RpgClicker\\Source\\RpgClicker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RpgClickerEditor",
+			"Path": "C:\\Users\\jquin\\Documents\\Unreal Projects\\RpgClicker\\Source\\RpgClickerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

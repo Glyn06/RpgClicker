@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RpgClicker.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClicker.cpp.obj"
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.cpp.obj"
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClicker.init.gen.cpp.obj"
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.gen.cpp.obj"
+"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Default.rc2.res"
+/OUT:"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker.lib"
+/INCLUDE:IMPLEMENT_MODULE_RpgClicker

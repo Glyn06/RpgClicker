@@ -1,0 +1,2 @@
+C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h
+c:\users\jquin\documents\unreal projects\rpgclicker\source\rpgclicker\RpgClicker.h
