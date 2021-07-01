@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\jquin\\Documents\\Unreal Projects\\RpgClicker\\Source\\RpgClicker\\RpgClicker.Build.cs",
-		"C:\\Users\\jquin\\Documents\\Unreal Projects\\RpgClicker\\Source\\RpgClicker.Target.cs",
-		"C:\\Users\\jquin\\Documents\\Unreal Projects\\RpgClicker\\Source\\RpgClickerEditor.Target.cs"
+		"C:\\Users\\jquin\\Desktop\\Image Campus\\Unreal\\RpgClicker\\RpgClicker\\Source\\RpgClicker\\RpgClicker.Build.cs",
+		"C:\\Users\\jquin\\Desktop\\Image Campus\\Unreal\\RpgClicker\\RpgClicker\\Source\\RpgClicker.Target.cs",
+		"C:\\Users\\jquin\\Desktop\\Image Campus\\Unreal\\RpgClicker\\RpgClicker\\Source\\RpgClickerEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.1"
 }

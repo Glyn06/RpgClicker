@@ -1,9 +1,9 @@
-C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h
+C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Source\RpgClicker/RpgClickerGameModeBase.h
+C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Source\RpgClicker/RpgClickerGameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\jquin\documents\unreal projects\rpgclicker\intermediate\build\win64\ue4editor\inc\rpgclicker\RpgClickerGameModeBase.generated.h
+c:\users\jquin\desktop\image campus\unreal\rpgclicker\rpgclicker\intermediate\build\win64\ue4editor\inc\rpgclicker\RpgClickerGameModeBase.generated.h

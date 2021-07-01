@@ -32,16 +32,14 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Inc\RpgClicker"
-/I "C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Source"
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -233,6 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I "C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Inc\RpgClicker"
+/I "C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Inc\RpgClicker\RpgClickerGameModeBase.gen.cpp"
-/FI"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h"
-/Fo"C:\Users\jquin\Documents\Unreal Projects\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.gen.cpp.obj"
+/FI"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Inc\RpgClicker\RpgClickerGameModeBase.gen.cpp"
+/FI"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h"
+/Fo"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4

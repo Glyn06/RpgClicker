@@ -1,0 +1,7 @@
+C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Definitions.RpgClicker.h
+c:\users\jquin\desktop\image campus\unreal\rpgclicker\rpgclicker\source\rpgclicker\RpgClickerGameModeMenu.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Inc\RpgClicker\RpgClickerGameModeMenu.generated.h

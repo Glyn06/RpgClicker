@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker).
+  Invalidating makefile for RpgClickerEditor (BaseCharacter.gen.cpp modified)
+  Parsing headers for RpgClickerEditor
+    Running UnrealHeaderTool "C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\RpgClicker.uproject" "C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\RpgClickerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\jquin\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for RpgClickerEditor in 16,1390922 seconds
+  Building RpgClickerEditor...
+  Using Visual Studio 2017 14.16.27044 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 4 processes...
+    [1/6] RpgClicker.init.gen.cpp
+    [2/6] BaseCharacter.cpp
+    [3/6] BaseCharacter.gen.cpp
+    [4/6] UE4Editor-RpgClicker.lib
+       Creando biblioteca C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker.lib y objeto C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker.exp
+    [5/6] UE4Editor-RpgClicker.dll
+       Creando biblioteca C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker.suppressed.lib y objeto C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker.suppressed.exp
+    [6/6] RpgClickerEditor.target
+  Total time in Parallel executor: 43,32 seconds
+  Total execution time: 72,96 seconds
