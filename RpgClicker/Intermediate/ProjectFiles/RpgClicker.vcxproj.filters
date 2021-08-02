@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RpgClicker.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{55BE9D5E-51E3-4394-BF64-DC8373B05F14}</UniqueIdentifier>
+      <UniqueIdentifier>{EFC95320-0C76-4FB2-B5E9-E781442F90DF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RpgClicker.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3E16423A-5794-4BDD-82FD-33E3F8CBEAB1}</UniqueIdentifier>
+      <UniqueIdentifier>{CE6F9AB2-E464-4FE3-8A26-63FB4E4913D6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,12 +24,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RpgClicker">
-      <UniqueIdentifier>{A8776247-A0C2-484E-B45A-1006892C89E6}</UniqueIdentifier>
+      <UniqueIdentifier>{6DF74746-0F8D-4306-A6B2-02294C36AA4E}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\RpgClicker\BaseCharacter.cpp">
       <Filter>Source\RpgClicker</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RpgClicker\BaseCharacter.h">
+      <Filter>Source\RpgClicker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RpgClicker\BaseEnemy.cpp">
+      <Filter>Source\RpgClicker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RpgClicker\BaseEnemy.h">
       <Filter>Source\RpgClicker</Filter>
     </ClInclude>
     <None Include="..\..\Source\RpgClicker\RpgClicker.Build.cs">

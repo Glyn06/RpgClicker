@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RpgClicker-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\RpgClickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\BaseCharacter.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\BaseEnemy.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClicker.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeMenu.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\BaseCharacter.gen.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\BaseEnemy.gen.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClicker.init.gen.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeBase.gen.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\RpgClickerGameModeMenu.gen.cpp.obj"
+"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\Default.rc2.res"
+/OUT:"C:\Users\jquin\Desktop\Image Campus\Unreal\RpgClicker\RpgClicker\Intermediate\Build\Win64\UE4Editor\Development\RpgClicker\UE4Editor-RpgClicker-0005.lib"
+/INCLUDE:IMPLEMENT_MODULE_RpgClicker
